@@ -148,15 +148,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/F/SynologyDrive/Drive/gitit_libs/wtlib/01工作/06流水账/201904Q/2019年12月6日-流程不完善的地方-给崔总.md",
-					"settings":
-					{
-						"buffer_size": 820,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -198,14 +189,11 @@
 			},
 			"expanded_folders":
 			[
-				"/F/SynologyDrive/Drive/gitit_libs/wtlib",
-				"/F/SynologyDrive/Drive/gitit_libs/wtlib/.idea",
-				"/F/SynologyDrive/Drive/gitit_libs/wtlib/01工作",
-				"/F/SynologyDrive/Drive/gitit_libs/wtlib/01工作/06流水账",
-				"/F/SynologyDrive/Drive/gitit_libs/wtlib/01工作/06流水账/201904Q"
+				"/F/SynologyDrive/Drive/gitit_libs/wtlib"
 			],
 			"file_history":
 			[
+				"/F/SynologyDrive/Drive/gitit_libs/wtlib/01工作/06流水账/201904Q/2019年12月6日-流程不完善的地方-给崔总.md"
 			],
 			"find":
 			{
@@ -246,38 +234,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/F/SynologyDrive/Drive/gitit_libs/wtlib/01工作/06流水账/201904Q/2019年12月6日-流程不完善的地方-给崔总.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 820,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										235,
-										235
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 971.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -317,7 +275,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,903,822,366,1890",
+			"position": "0,0,1,-32000,-32000,-1,-1,558,190,22,1258",
 			"project": "",
 			"replace":
 			{
