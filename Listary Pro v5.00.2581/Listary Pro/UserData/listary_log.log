@@ -187,3 +187,4 @@
 [1114/154244:105734:WARNING:status_icon_win.cpp(41)] Unable to create status tray icon.
 [1114/154244:105734:WARNING:status_icon_win.cpp(53)] Error setting status tray icon image
 [1114/154244:105734:WARNING:status_icon_win.cpp(92)] Unable to set tooltip for status tray icon
+[1210/223119:3836984:ERROR:window_impl.cc(56)] Failed to unregister class Listary_WidgetWin_0. Error = 1412
