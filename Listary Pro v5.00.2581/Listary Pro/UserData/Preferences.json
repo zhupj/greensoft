@@ -139,7 +139,7 @@
       "check_updates": false,
       "default_file_manager": {
          "param": "/O /T \"%1\"",
-         "path": "C:\\apps\\grsoft\\Total_Commander_v8.5_\u6C49\u5316\u7834\u89E3\u7EFF\u8272\u6B63\u5F0F\u7248\\TOTALCMD64.EXE"
+         "path": "\"C:\\apphome\\greensoft\\TotalCommander_v9\\Total Commander 9.22a.x64\\TOTALCMD64.EXE\""
       },
       "fuzzy_matching": true,
       "language_file": "zh-CN.ini"
